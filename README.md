@@ -1,4 +1,4 @@
-# Mathematical-Logic-for-Programming-_Course_67501
+# Mathematical Logic
 Via code we can infer and prove any mathematical problem.
 
 ## Propositions
